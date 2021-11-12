@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "@mphelps/sequelize",
   "description": "Multi dialect ORM for Node.JS",
   "version": "0.0.0-development",
   "maintainers": [
