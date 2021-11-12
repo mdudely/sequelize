@@ -1,7 +1,7 @@
 {
   "name": "@mphelps/sequelize",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "0.0.0-development",
+  "version": "5.23.0",
   "maintainers": [
     "Pedro Augusto de Paula Barbosa <papb1996@gmail.com>"
   ],
